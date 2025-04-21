@@ -88,6 +88,12 @@ A aplicação estará disponível em:
 
 Este projeto está licenciado sob a licença MIT.
 
+---
+
+## 👩‍💻 **Autor: 
+Projeto API **Segurança Feminina** desenvolvido por **Julia Tito Assunção**.  
+Linkedin:[www.linkedin.com/in/julia-tito-b4007a226](https://www.linkedin.com/in/julia-tito-b4007a226)  
+Colaboração e feedbacks são bem-vindos!
 
 
 
