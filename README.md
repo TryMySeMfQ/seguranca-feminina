@@ -56,7 +56,7 @@ Estes arquivos representam a interface da aplicação e consomem os dados da API
 ### 4. Inicie o Servidor
 
 ```bash
-npm start
+npm run dev
 ```
 
 A aplicação estará disponível em:  
