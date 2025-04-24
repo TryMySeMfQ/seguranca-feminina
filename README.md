@@ -33,8 +33,8 @@ Tudo isso acessível por uma interface web simples e funcional.
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/wait-on-me.git
-cd wait-on-me
+git clone https://github.com/TryMySeMfQ/seguranca-feminina.git
+cd seguranca-feminina
 ```
 
 ### 2. Instale as Dependências
